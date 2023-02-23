@@ -1,2 +1,15 @@
-#include "explosion.cpp"
-#include "explosion.h"
+#include <iostream>
+
+void test();
+
+int main()
+{
+	
+	
+}
+
+void test()
+{
+	
+	
+}
