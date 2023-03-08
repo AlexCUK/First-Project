@@ -1,1 +1,1 @@
-// testing code editor for vscode
+// testing code for the editor
