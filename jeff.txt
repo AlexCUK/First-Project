@@ -1,2 +1,10 @@
-// Das a function 
+// Das a Test Dummy For the Nuclear OPTION 
+
+int DummysHealth;
+
 int func()
+{
+
+
+
+}
