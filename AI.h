@@ -1,2 +1,5 @@
-line 1
-line 2
+int playerSpeed;
+
+int playerHealth;
+
+int playerDamage;
